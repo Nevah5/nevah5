@@ -1,8 +1,6 @@
 <center><h1>Hey, I'm Nevah! 😸</h1></center>
 
 <center><h2>Languages, Tools and Others</h2></center>
-
----------------------
 <br>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,10 +37,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <center><h2>User Stats</h2></center>
-
----------------
 <br>
-
 <center>
   <img src="https://github-readme-stats.vercel.app/api?username=nevah5&count_private=true&show_icons=true&theme=tokyonight&border_color=1A1B27" style="vertical-align: top;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevah5&layout=compact&theme=tokyonight&border_color=1A1B27">
