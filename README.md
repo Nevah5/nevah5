@@ -1,4 +1,4 @@
-<center><h1>Hey, I'm Nevah! 😸</h1></center>
+<img src="Banner.png" width="100%">
 
 <center><h2>Languages, Tools and Others</h2></center>
 <br>
