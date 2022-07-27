@@ -1,6 +1,6 @@
 <img src="Banner.png" width="100%">
 <div align="center">
-  <h3 width="40%">Hello 👋. I'm Nevah5.<br>I'm an apprentice as a software engineer in Zurich Switzerland. I'm currently working on small private projects to gain more experience in programming.</h3>
+  <h3 width="40%">Hello 👋. I'm Nevah5.<br>I'm an apprentice as a software engineer in Zurich Switzerland. I'm currently working on private projects to gain more experience.</h3>
 </div>
 <br>
 <br>
